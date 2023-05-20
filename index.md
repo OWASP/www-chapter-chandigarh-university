@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Chandigarh University
-tags: example-tag
+tags: Chandigarh University India
 region: Asia
 meetup-group: https://www.meetup.com/owasp-chandigarh-university-student-chapter/
 
