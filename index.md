@@ -23,7 +23,7 @@ Keep regularly checking our [Official OWASP Chandigarh Univeristy Meetup group](
 ## Speaker request
 If you like to speak on our upcoming events, Kindly mail us
 * [Chirag Saini](mailto:chirag.saini@owasp.org)
-* [Amandeep kaur(Advisior)](mailto:amandeep.kaur@owasp.org)
+* [Amandeep Kaur (Advisior)](mailto:amandeep.kaur@owasp.org)
 * [Gagandeep Sodhi](mailto:gagandeep.sodhi@owasp.org)
 
 **Email Format :**
