@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP Chandigarh University
 tags: Chandigarh University India
 region: Asia
+country: India
 meetup-group: https://www.meetup.com/owasp-chandigarh-university-student-chapter/
 
 ---
